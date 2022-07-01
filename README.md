@@ -7,3 +7,6 @@
 3. `npm i`
 4. `npm start`
 5. `npm test`
+
+# URL Deploy:
+https://blocks-client-react.netlify.app/
